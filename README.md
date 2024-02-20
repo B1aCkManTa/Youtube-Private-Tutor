@@ -11,7 +11,7 @@
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
-  - 
+
 ## Description
 <YouTube Private Tutor is a Python-based project designed to provide personalized tutoring experiences leveraging YouTube videos. This project utilizes natural language processing (NLP) and machine learning (ML) techniques to transcribe, analyze, and respond to user queries based on the content of YouTube videos.>
 
