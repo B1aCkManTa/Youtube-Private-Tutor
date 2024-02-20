@@ -19,7 +19,7 @@ YouTube Private Tutor is a Python-based project designed to provide personalized
 - Transcription and Chunking: Extracts text transcripts from YouTube videos and splits them into manageable chunks for analysis.
 - Semantic Encoding and Storage: Encodes text chunks into numerical vectors and stores them efficiently in a vector database using FAISS.
 - Cosine Similarity Search: Utilizes cosine similarity to retrieve the most relevant text chunks from the database based on user queries.
-- Language Model (LM) Integration: Integrates with state-of-the-art language models, such as GPT-3.5, to generate contextually relevant responses to user queries.
+- Language Model (LM) Integration: Integrates with state-of-the-art language models, such as GPT-4, to generate contextually relevant responses to user queries.
 - Streamlit Frontend: Provides a user-friendly web interface using Streamlit for users to input questions and receive detailed responses based on the content of the YouTube videos.
 
 ## Installation
